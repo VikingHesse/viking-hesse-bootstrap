@@ -1,0 +1,15 @@
+body{
+    background-color: mediumslateblue;
+}
+
+h1{
+    color:white;
+}
+
+h2, h3, h4, h5, h6, p, .h2, .h3, .h4, .h5, .h6, .p{
+    color:white;
+}
+
+.display-1{
+    font-weight:400;
+}
