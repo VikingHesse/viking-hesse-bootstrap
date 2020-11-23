@@ -5,3 +5,30 @@ body{
 h1{
     color:black;
 }
+
+.btn-primary{
+    background-color:red;
+    border-color: darkred;
+}
+
+.btn-primary:hover{
+    background-color:pink;
+}
+
+.container-fluid{
+    background-color:lightcoral;
+}
+
+.card-title{
+    color: mediumslateblue;
+    font-weight: bold
+}
+
+.card-text{
+    color:cornflowerblue
+}
+
+.card{
+    background-color:whitesmoke;
+}
+
